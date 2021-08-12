@@ -1,0 +1,5 @@
+node_modules
+.dccache
+.vscode/
+testApi.txt
+phonebook-api
